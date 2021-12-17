@@ -1,3 +1,3 @@
 # Chat
-Chat app with login function.
-Using Firebase to connect people, also applied frameworks and some pods. Take an experiance with CocoaPods.
+Chat app.
+Using Firebase for implement chat login, to connect people, to store messages and also applied frameworks. Handle with CocoaPods.
